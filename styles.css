@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
-main{
+body{
 	text-align: center;
+}
+button{
+	background-color: pink;
+	border : 0
+	
 }
